@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there,👋</h1>
 
 <p align="center">
   I develop apps for fun — building things I'm curious about, mostly in <b>Kotlin</b>, and shipping the ones that turn out well.
