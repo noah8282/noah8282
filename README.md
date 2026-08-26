@@ -14,10 +14,34 @@ Check out the apps I've built in my free time on the Play Store:
 
 ## 🛠️ Tech I Work With
 
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://developer.android.com/studio/write"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wiki.archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="50" height="50" alt="Arch Linux" /></a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://kotlinlang.org/docs/home.html">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="52" height="52" alt="Kotlin" /><br />
+        Kotlin
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.android.com/studio/write">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="52" height="52" alt="Android Studio" /><br />
+        Android Studio
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://docs.github.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" alt="Git" /><br />
+        Git / GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wiki.archlinux.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="52" height="52" alt="Arch Linux" /><br />
+        Arch Linux
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Quick Facts
 * 🔭 I’m currently building my next fun side project.
