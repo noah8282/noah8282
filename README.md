@@ -10,12 +10,14 @@ Check out the apps I've built in my free time on the Play Store:
 
 </div>
 
+---
+
 ## 🛠️ Tech I Work With
 
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/home.html)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio/write)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://docs.github.com/)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)](https://wiki.archlinux.org/)
+<a href="https://kotlinlang.org/docs/home.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://developer.android.com/studio/write"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://docs.github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wiki.archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="50" height="50" alt="Arch Linux" /></a>
 
 ## ⚡ Quick Facts
 * 🔭 I’m currently building my next fun side project.
