@@ -44,7 +44,12 @@ Check out the apps I've built in my free time on the Play Store:
     </td>
     <td align="center">
       <a href="https://www.gnu.org/software/bash/manual/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="52" height="52" alt="Bash" /><br />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/white">
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/black">
+          <img src="https://cdn.simpleicons.org/gnubash/black" width="52" height="52" alt="Bash" />
+        </picture>
+        <br />
         Bash
       </a>
     </td>
