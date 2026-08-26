@@ -19,15 +19,15 @@ Check out the apps I've built in my free time on the Play Store:
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://kotlinlang.org/docs/home.html">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="52" height="52" alt="Kotlin" /><br />
-        Kotlin
-      </a>
-    </td>
-    <td align="center">
       <a href="https://developer.android.com/studio/write">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="52" height="52" alt="Android Studio" /><br />
         Android Studio
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kotlinlang.org/docs/home.html">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="52" height="52" alt="Kotlin" /><br />
+        Kotlin
       </a>
     </td>
     <td align="center">
