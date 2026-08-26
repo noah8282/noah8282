@@ -6,7 +6,10 @@ This is my corner of GitHub! I'm an enthusiastic developer who loves bringing id
   
 Check out the apps I've built in my free time on the Play Store:
 
-[![Explore My Apps on Google Play](play_store_banner.png)](YOUR_PLAY_STORE_DEVELOPER_LINK_HERE)
+<br>
+<a href="YOUR_PLAY_STORE_DEVELOPER_LINK_HERE">
+  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60" />
+</a>
 
 </div>
 
