@@ -12,7 +12,6 @@ Check out the apps I've built in my free time on the Play Store:
 
 </div>
 
----
 
 ## 🛠️ Tech I Work With
 
