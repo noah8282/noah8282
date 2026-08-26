@@ -49,4 +49,4 @@ Check out the apps I've built in my free time on the Play Store:
 * 🔭 I’m currently building my next fun side project.
 * 🌱 Always exploring new Android libraries and modern architecture.
 * 📫 A professional Distro hopper
-* 📫 Always tinkering with something new
+* ⚙️ Always tinkering with something new
