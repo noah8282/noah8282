@@ -7,7 +7,7 @@ This is my corner of GitHub! I'm an enthusiastic developer who loves bringing id
 Check out the apps I've built in my free time on the Play Store:
 
 <br>
-<a href="YOUR_PLAY_STORE_DEVELOPER_LINK_HERE">
+<a href="https://play.google.com/store/apps/dev?id=8811553228940764322">
   <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60" />
 </a>
 
