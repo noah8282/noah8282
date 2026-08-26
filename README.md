@@ -32,8 +32,13 @@ Check out the apps I've built in my free time on the Play Store:
     </td>
     <td align="center">
       <a href="https://docs.github.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" alt="Git" /><br />
-        Git / GitHub
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
+          <img src="https://cdn.simpleicons.org/github/black" width="52" height="52" alt="GitHub" />
+        </picture>
+        <br />
+        GitHub
       </a>
     </td>
     <td align="center">
