@@ -6,9 +6,11 @@ This is my corner of GitHub! I'm an enthusiastic developer who loves bringing id
   
 Check out the apps I've built in my free time on the Play Store:
 
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](YOUR_PLAY_STORE_DEVELOPER_LINK_HERE)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8811553228940764322)
 
 </div>
+
+---
 
 ## 🛠️ Tech I Work With
 
@@ -21,4 +23,4 @@ Check out the apps I've built in my free time on the Play Store:
 * 🔭 I’m currently building my next fun side project.
 * 🌱 Always exploring new Android libraries and modern architecture.
 * 📫 A professional Distro hopper
-* 📫 Always tinkering with something new
+* ⚙️ Always tinkering with something new
