@@ -6,7 +6,7 @@ This is my corner of GitHub! I'm an enthusiastic developer who loves bringing id
   
 Check out the apps I've built in my free time on the Play Store:
 
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](YOUR_PLAY_STORE_DEVELOPER_LINK_HERE)
+[![Explore My Apps on Google Play](play_store_banner.png)](YOUR_PLAY_STORE_DEVELOPER_LINK_HERE)
 
 </div>
 
